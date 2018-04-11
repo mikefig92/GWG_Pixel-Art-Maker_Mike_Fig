@@ -1,5 +1,6 @@
 # Pixel Art Maker Project
 Author: Mike Fig
+https://mjfigueroa.github.io/GWG_Pixel-Art-Maker_Mike_Fig/
 
 ## Table of Contents
 
